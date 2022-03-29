@@ -1,4 +1,4 @@
-Getting Started with Twitter Login
+Getting Started with Bootstrap
 
 Using html, bootstrap and font-awesome icons,
 
